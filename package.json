@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/imTik/frontend-demo-npm/issues"
   },
+  "bin": {
+    "fontdemo-init": "bin/index"
+  },
   "keywords": [
     "vue",
     "vite",
