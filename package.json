@@ -1,0 +1,32 @@
+{
+  "name": "frontend-demo-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imTik/frontend-demo-npm.git"
+  },
+  "author": "Tik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imTik/frontend-demo-npm/issues"
+  },
+  "keywords": [
+    "vue",
+    "vite",
+    "front demo"
+  ],
+  "homepage": "https://github.com/imTik/frontend-demo-npm#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "ora": "^5.4.1"
+  }
+}

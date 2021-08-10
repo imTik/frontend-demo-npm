@@ -1,0 +1,10 @@
+{
+  "vite": {
+    "url": "imTik/vite-demo",
+    "branch": "master"
+  },
+  "vue": {
+    "url": "imTik/vueTemplate",
+    "branch": "master"
+  }
+}
