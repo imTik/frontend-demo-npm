@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-process.env.NODE_PATH = __dirname + '/../node_modules';
-
 const program = require('commander');
 const package = require('../package.json');
 
